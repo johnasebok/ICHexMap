@@ -1,0 +1,3259 @@
+{
+  "systemDetails": [
+    {
+      "x": 42,
+      "y": 94,
+      "Sysname": "Achernar"
+    },
+    {
+      "x": 4,
+      "y": 95,
+      "Sysname": "Adaron"
+    },
+    {
+      "x": 12,
+      "y": 92,
+      "Sysname": "Ades"
+    },
+    {
+      "x": 47,
+      "y": 29,
+      "Sysname": "Adrammelech"
+    },
+    {
+      "x": 28,
+      "y": 96,
+      "Sysname": "Aegir"
+    },
+    {
+      "x": 78,
+      "y": 95,
+      "Sysname": "Aeneas"
+    },
+    {
+      "x": 68,
+      "y": 33,
+      "Sysname": "Aesculapius"
+    },
+    {
+      "x": 93,
+      "y": 8,
+      "Sysname": "Ahemait"
+    },
+    {
+      "x": 82,
+      "y": 50,
+      "Sysname": "Ai-ada"
+    },
+    {
+      "x": 23,
+      "y": 71,
+      "Sysname": "Akhet"
+    },
+    {
+      "x": 36,
+      "y": 94,
+      "Sysname": "Albali"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "Sysname": "Alfhild"
+    },
+    {
+      "x": 48,
+      "y": 98,
+      "Sysname": "Alioth"
+    },
+    {
+      "x": 36,
+      "y": 61,
+      "Sysname": "Almach"
+    },
+    {
+      "x": 5,
+      "y": 65,
+      "Sysname": "Alpheratz"
+    },
+    {
+      "x": 62,
+      "y": 64,
+      "Sysname": "Altais"
+    },
+    {
+      "x": 36,
+      "y": 8,
+      "Sysname": "Ambrosia"
+    },
+    {
+      "x": 2,
+      "y": 61,
+      "Sysname": "Amphithoe"
+    },
+    {
+      "x": 7,
+      "y": 29,
+      "Sysname": "Amset"
+    },
+    {
+      "x": 86,
+      "y": 43,
+      "Sysname": "Anath"
+    },
+    {
+      "x": 3,
+      "y": 99,
+      "Sysname": "Anbay"
+    },
+    {
+      "x": 88,
+      "y": 93,
+      "Sysname": "Anit"
+    },
+    {
+      "x": 38,
+      "y": 98,
+      "Sysname": "Ankt"
+    },
+    {
+      "x": 40,
+      "y": 91,
+      "Sysname": "Antigone"
+    },
+    {
+      "x": 51,
+      "y": 69,
+      "Sysname": "AOL"
+    },
+    {
+      "x": 77,
+      "y": 55,
+      "Sysname": "Aphrodite"
+    },
+    {
+      "x": 14,
+      "y": 18,
+      "Sysname": "Aqualuan"
+    },
+    {
+      "x": 30,
+      "y": 86,
+      "Sysname": "Arneb"
+    },
+    {
+      "x": 44,
+      "y": 49,
+      "Sysname": "Arnout"
+    },
+    {
+      "x": 3,
+      "y": 37,
+      "Sysname": "Asgard"
+    },
+    {
+      "x": 56,
+      "y": 26,
+      "Sysname": "Asteria"
+    },
+    {
+      "x": 36,
+      "y": 98,
+      "Sysname": "Atar"
+    },
+    {
+      "x": 3,
+      "y": 52,
+      "Sysname": "Aten"
+    },
+    {
+      "x": 18,
+      "y": 10,
+      "Sysname": "Attila"
+    },
+    {
+      "x": 70,
+      "y": 87,
+      "Sysname": "Atumu"
+    },
+    {
+      "x": 49,
+      "y": 75,
+      "Sysname": "Bacull"
+    },
+    {
+      "x": 39,
+      "y": 63,
+      "Sysname": "Baib"
+    },
+    {
+      "x": 28,
+      "y": 87,
+      "Sysname": "Bakha"
+    },
+    {
+      "x": 67,
+      "y": 67,
+      "Sysname": "Barine"
+    },
+    {
+      "x": 52,
+      "y": 51,
+      "Sysname": "Bariwulus"
+    },
+    {
+      "x": 11,
+      "y": 18,
+      "Sysname": "Bateia"
+    },
+    {
+      "x": 56,
+      "y": 100,
+      "Sysname": "Bauhenth"
+    },
+    {
+      "x": 38,
+      "y": 34,
+      "Sysname": "Baunualf"
+    },
+    {
+      "x": 8,
+      "y": 41,
+      "Sysname": "Bauron"
+    },
+    {
+      "x": 35,
+      "y": 67,
+      "Sysname": "Bausch"
+    },
+    {
+      "x": 75,
+      "y": 18,
+      "Sysname": "Bauze"
+    },
+    {
+      "x": 98,
+      "y": 85,
+      "Sysname": "Baxinth"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "Sysname": "Beac"
+    },
+    {
+      "x": 42,
+      "y": 98,
+      "Sysname": "Befaac"
+    },
+    {
+      "x": 58,
+      "y": 72,
+      "Sysname": "Berene"
+    },
+    {
+      "x": 24,
+      "y": 65,
+      "Sysname": "Beuor"
+    },
+    {
+      "x": 97,
+      "y": 39,
+      "Sysname": "Beuruter"
+    },
+    {
+      "x": 5,
+      "y": 72,
+      "Sysname": "Bicerb"
+    },
+    {
+      "x": 93,
+      "y": 43,
+      "Sysname": "Billing"
+    },
+    {
+      "x": 70,
+      "y": 65,
+      "Sysname": "Bivell"
+    },
+    {
+      "x": 83,
+      "y": 41,
+      "Sysname": "Boj"
+    },
+    {
+      "x": 11,
+      "y": 84,
+      "Sysname": "Bonb"
+    },
+    {
+      "x": 20,
+      "y": 35,
+      "Sysname": "Borp"
+    },
+    {
+      "x": 18,
+      "y": 21,
+      "Sysname": "Botun"
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "Sysname": "Bung"
+    },
+    {
+      "x": 74,
+      "y": 44,
+      "Sysname": "Burz"
+    },
+    {
+      "x": 71,
+      "y": 50,
+      "Sysname": "Busiris"
+    },
+    {
+      "x": 72,
+      "y": 42,
+      "Sysname": "Buxm"
+    },
+    {
+      "x": 44,
+      "y": 64,
+      "Sysname": "Caas"
+    },
+    {
+      "x": 75,
+      "y": 63,
+      "Sysname": "Caliadne"
+    },
+    {
+      "x": 69,
+      "y": 22,
+      "Sysname": "Callianeira"
+    },
+    {
+      "x": 17,
+      "y": 52,
+      "Sysname": "Calz"
+    },
+    {
+      "x": 13,
+      "y": 98,
+      "Sysname": "Carpath"
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "Sysname": "Caudades"
+    },
+    {
+      "x": 5,
+      "y": 94,
+      "Sysname": "Cauxeib"
+    },
+    {
+      "x": 33,
+      "y": 93,
+      "Sysname": "Cazet"
+    },
+    {
+      "x": 88,
+      "y": 3,
+      "Sysname": "Ceac"
+    },
+    {
+      "x": 42,
+      "y": 23,
+      "Sysname": "Ceres"
+    },
+    {
+      "x": 77,
+      "y": 58,
+      "Sysname": "Cheese"
+    },
+    {
+      "x": 96,
+      "y": 17,
+      "Sysname": "Chill"
+    },
+    {
+      "x": 56,
+      "y": 5,
+      "Sysname": "Chilli"
+    },
+    {
+      "x": 100,
+      "y": 21,
+      "Sysname": "Choro"
+    },
+    {
+      "x": 97,
+      "y": 40,
+      "Sysname": "Cine"
+    },
+    {
+      "x": 6,
+      "y": 96,
+      "Sysname": "Circleofpower"
+    },
+    {
+      "x": 14,
+      "y": 32,
+      "Sysname": "Cisseis"
+    },
+    {
+      "x": 96,
+      "y": 30,
+      "Sysname": "Ciwune"
+    },
+    {
+      "x": 87,
+      "y": 67,
+      "Sysname": "Clio"
+    },
+    {
+      "x": 63,
+      "y": 3,
+      "Sysname": "Cobatr"
+    },
+    {
+      "x": 45,
+      "y": 22,
+      "Sysname": "Coeus"
+    },
+    {
+      "x": 55,
+      "y": 57,
+      "Sysname": "Cohoxuron"
+    },
+    {
+      "x": 67,
+      "y": 90,
+      "Sysname": "Colorado"
+    },
+    {
+      "x": 88,
+      "y": 73,
+      "Sysname": "Confed"
+    },
+    {
+      "x": 88,
+      "y": 16,
+      "Sysname": "Copimn"
+    },
+    {
+      "x": 94,
+      "y": 16,
+      "Sysname": "Coxunth"
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "Sysname": "Cufeturn"
+    },
+    {
+      "x": 82,
+      "y": 19,
+      "Sysname": "Cupid"
+    },
+    {
+      "x": 20,
+      "y": 69,
+      "Sysname": "Cursa"
+    },
+    {
+      "x": 53,
+      "y": 50,
+      "Sysname": "Cuxatron"
+    },
+    {
+      "x": 82,
+      "y": 23,
+      "Sysname": "Cype"
+    },
+    {
+      "x": 95,
+      "y": 61,
+      "Sysname": "Dabih"
+    },
+    {
+      "x": 83,
+      "y": 99,
+      "Sysname": "Daena"
+    },
+    {
+      "x": 51,
+      "y": 15,
+      "Sysname": "Dahazerus"
+    },
+    {
+      "x": 98,
+      "y": 35,
+      "Sysname": "Daliib"
+    },
+    {
+      "x": 59,
+      "y": 46,
+      "Sysname": "Damaris"
+    },
+    {
+      "x": 26,
+      "y": 85,
+      "Sysname": "Damuron"
+    },
+    {
+      "x": 37,
+      "y": 8,
+      "Sysname": "Dangerous"
+    },
+    {
+      "x": 100,
+      "y": 53,
+      "Sysname": "Dapenp"
+    },
+    {
+      "x": 35,
+      "y": 80,
+      "Sysname": "Darkworld"
+    },
+    {
+      "x": 28,
+      "y": 66,
+      "Sysname": "Dau"
+    },
+    {
+      "x": 14,
+      "y": 23,
+      "Sysname": "Dauron"
+    },
+    {
+      "x": 52,
+      "y": 38,
+      "Sysname": "Dazimus"
+    },
+    {
+      "x": 17,
+      "y": 15,
+      "Sysname": "Demg"
+    },
+    {
+      "x": 89,
+      "y": 72,
+      "Sysname": "Deugaan"
+    },
+    {
+      "x": 47,
+      "y": 44,
+      "Sysname": "Deuharus"
+    },
+    {
+      "x": 44,
+      "y": 7,
+      "Sysname": "Deuniel"
+    },
+    {
+      "x": 46,
+      "y": 93,
+      "Sysname": "Dialf"
+    },
+    {
+      "x": 85,
+      "y": 34,
+      "Sysname": "Diana"
+    },
+    {
+      "x": 14,
+      "y": 97,
+      "Sysname": "Dike"
+    },
+    {
+      "x": 11,
+      "y": 70,
+      "Sysname": "Dinus"
+    },
+    {
+      "x": 70,
+      "y": 49,
+      "Sysname": "Diphda"
+    },
+    {
+      "x": 27,
+      "y": 20,
+      "Sysname": "Dirunane"
+    },
+    {
+      "x": 76,
+      "y": 52,
+      "Sysname": "Discordia"
+    },
+    {
+      "x": 65,
+      "y": 16,
+      "Sysname": "Disutern"
+    },
+    {
+      "x": 8,
+      "y": 77,
+      "Sysname": "Djanggawul"
+    },
+    {
+      "x": 37,
+      "y": 22,
+      "Sysname": "Dolus"
+    },
+    {
+      "x": 98,
+      "y": 76,
+      "Sysname": "Done"
+    },
+    {
+      "x": 75,
+      "y": 69,
+      "Sysname": "Dorc"
+    },
+    {
+      "x": 33,
+      "y": 83,
+      "Sysname": "Dous"
+    },
+    {
+      "x": 44,
+      "y": 98,
+      "Sysname": "Drianeria"
+    },
+    {
+      "x": 87,
+      "y": 29,
+      "Sysname": "Dudaor"
+    },
+    {
+      "x": 14,
+      "y": 68,
+      "Sysname": "Duib"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "Sysname": "Dyfaramp"
+    },
+    {
+      "x": 1,
+      "y": 79,
+      "Sysname": "Dyhaweht"
+    },
+    {
+      "x": 2,
+      "y": 86,
+      "Sysname": "Dymm"
+    },
+    {
+      "x": 37,
+      "y": 63,
+      "Sysname": "Dymz"
+    },
+    {
+      "x": 12,
+      "y": 100,
+      "Sysname": "Eculf"
+    },
+    {
+      "x": 70,
+      "y": 93,
+      "Sysname": "Eileithyia"
+    },
+    {
+      "x": 53,
+      "y": 27,
+      "Sysname": "Eingana"
+    },
+    {
+      "x": 63,
+      "y": 14,
+      "Sysname": "El"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "Sysname": "Eltara"
+    },
+    {
+      "x": 44,
+      "y": 58,
+      "Sysname": "Ennugi"
+    },
+    {
+      "x": 3,
+      "y": 93,
+      "Sysname": "Eor"
+    },
+    {
+      "x": 95,
+      "y": 5,
+      "Sysname": "Erinyes"
+    },
+    {
+      "x": 89,
+      "y": 60,
+      "Sysname": "Eripha"
+    },
+    {
+      "x": 60,
+      "y": 92,
+      "Sysname": "Eris"
+    },
+    {
+      "x": 40,
+      "y": 10,
+      "Sysname": "Ermutu"
+    },
+    {
+      "x": 72,
+      "y": 94,
+      "Sysname": "Erus"
+    },
+    {
+      "x": 82,
+      "y": 30,
+      "Sysname": "Erutun"
+    },
+    {
+      "x": 85,
+      "y": 68,
+      "Sysname": "Erythea"
+    },
+    {
+      "x": 71,
+      "y": 73,
+      "Sysname": "Eshara"
+    },
+    {
+      "x": 5,
+      "y": 62,
+      "Sysname": "Eshmun"
+    },
+    {
+      "x": 37,
+      "y": 28,
+      "Sysname": "Euadne"
+    },
+    {
+      "x": 46,
+      "y": 31,
+      "Sysname": "Euarne"
+    },
+    {
+      "x": 29,
+      "y": 59,
+      "Sysname": "Eudia"
+    },
+    {
+      "x": 43,
+      "y": 39,
+      "Sysname": "Euterpe"
+    },
+    {
+      "x": 83,
+      "y": 92,
+      "Sysname": "Exorus"
+    },
+    {
+      "x": 9,
+      "y": 83,
+      "Sysname": "Fagiturn"
+    },
+    {
+      "x": 42,
+      "y": 1,
+      "Sysname": "Faturn"
+    },
+    {
+      "x": 30,
+      "y": 87,
+      "Sysname": "Felesaon"
+    },
+    {
+      "x": 19,
+      "y": 99,
+      "Sysname": "Fenk"
+    },
+    {
+      "x": 67,
+      "y": 74,
+      "Sysname": "Ferublaac"
+    },
+    {
+      "x": 18,
+      "y": 25,
+      "Sysname": "Fesatan"
+    },
+    {
+      "x": 93,
+      "y": 21,
+      "Sysname": "Fesuqu"
+    },
+    {
+      "x": 35,
+      "y": 79,
+      "Sysname": "Fetron"
+    },
+    {
+      "x": 76,
+      "y": 58,
+      "Sysname": "Feunr"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "Sysname": "Feuqx"
+    },
+    {
+      "x": 39,
+      "y": 9,
+      "Sysname": "Feuxupulx"
+    },
+    {
+      "x": 8,
+      "y": 82,
+      "Sysname": "Fidoll"
+    },
+    {
+      "x": 42,
+      "y": 49,
+      "Sysname": "Firanak"
+    },
+    {
+      "x": 52,
+      "y": 77,
+      "Sysname": "Fjalar"
+    },
+    {
+      "x": 57,
+      "y": 65,
+      "Sysname": "Fomeus"
+    },
+    {
+      "x": 86,
+      "y": 11,
+      "Sysname": "Foohon"
+    },
+    {
+      "x": 48,
+      "y": 59,
+      "Sysname": "Forc"
+    },
+    {
+      "x": 57,
+      "y": 99,
+      "Sysname": "Forsak"
+    },
+    {
+      "x": 40,
+      "y": 66,
+      "Sysname": "Forseti"
+    },
+    {
+      "x": 4,
+      "y": 85,
+      "Sysname": "Forus"
+    },
+    {
+      "x": 29,
+      "y": 68,
+      "Sysname": "Fulla"
+    },
+    {
+      "x": 61,
+      "y": 77,
+      "Sysname": "Fungi"
+    },
+    {
+      "x": 60,
+      "y": 6,
+      "Sysname": "Fusiwl"
+    },
+    {
+      "x": 81,
+      "y": 2,
+      "Sysname": "Fuson"
+    },
+    {
+      "x": 71,
+      "y": 14,
+      "Sysname": "Fuz"
+    },
+    {
+      "x": 62,
+      "y": 51,
+      "Sysname": "Fybinh"
+    },
+    {
+      "x": 50,
+      "y": 18,
+      "Sysname": "Fyjohb"
+    },
+    {
+      "x": 56,
+      "y": 33,
+      "Sysname": "Fykoze"
+    },
+    {
+      "x": 38,
+      "y": 18,
+      "Sysname": "Fylgja"
+    },
+    {
+      "x": 75,
+      "y": 82,
+      "Sysname": "Fymoxoter"
+    },
+    {
+      "x": 62,
+      "y": 85,
+      "Sysname": "Fyre"
+    },
+    {
+      "x": 43,
+      "y": 38,
+      "Sysname": "Fyrp"
+    },
+    {
+      "x": 45,
+      "y": 61,
+      "Sysname": "Gagoalf"
+    },
+    {
+      "x": 7,
+      "y": 58,
+      "Sysname": "Gaia"
+    },
+    {
+      "x": 84,
+      "y": 49,
+      "Sysname": "Ganisk"
+    },
+    {
+      "x": 98,
+      "y": 9,
+      "Sysname": "GardBringsSexehBack"
+    },
+    {
+      "x": 94,
+      "y": 86,
+      "Sysname": "Gattaca"
+    },
+    {
+      "x": 49,
+      "y": 21,
+      "Sysname": "Gaucolus"
+    },
+    {
+      "x": 68,
+      "y": 64,
+      "Sysname": "Gaupl"
+    },
+    {
+      "x": 98,
+      "y": 60,
+      "Sysname": "Gaus"
+    },
+    {
+      "x": 34,
+      "y": 82,
+      "Sysname": "Gauus"
+    },
+    {
+      "x": 49,
+      "y": 85,
+      "Sysname": "Gefane"
+    },
+    {
+      "x": 99,
+      "y": 20,
+      "Sysname": "Geglazarm"
+    },
+    {
+      "x": 1,
+      "y": 30,
+      "Sysname": "Geirah\\u00f6d"
+    },
+    {
+      "x": 60,
+      "y": 1,
+      "Sysname": "Geirolul"
+    },
+    {
+      "x": 14,
+      "y": 46,
+      "Sysname": "Geirskogul"
+    },
+    {
+      "x": 64,
+      "y": 81,
+      "Sysname": "Gejaze"
+    },
+    {
+      "x": 31,
+      "y": 3,
+      "Sysname": "Geuboturn"
+    },
+    {
+      "x": 73,
+      "y": 91,
+      "Sysname": "Geuwetun"
+    },
+    {
+      "x": 96,
+      "y": 6,
+      "Sysname": "Giel"
+    },
+    {
+      "x": 58,
+      "y": 1,
+      "Sysname": "Gisetun"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "Sysname": "Gokaj"
+    },
+    {
+      "x": 19,
+      "y": 78,
+      "Sysname": "Gonh"
+    },
+    {
+      "x": 62,
+      "y": 34,
+      "Sysname": "Gosh"
+    },
+    {
+      "x": 4,
+      "y": 93,
+      "Sysname": "Grumium"
+    },
+    {
+      "x": 99,
+      "y": 54,
+      "Sysname": "Gungnir"
+    },
+    {
+      "x": 56,
+      "y": 42,
+      "Sysname": "Gupe"
+    },
+    {
+      "x": 80,
+      "y": 82,
+      "Sysname": "Guzet"
+    },
+    {
+      "x": 16,
+      "y": 94,
+      "Sysname": "Guzorell"
+    },
+    {
+      "x": 24,
+      "y": 20,
+      "Sysname": "Gyberon"
+    },
+    {
+      "x": 11,
+      "y": 24,
+      "Sysname": "Gyll"
+    },
+    {
+      "x": 95,
+      "y": 50,
+      "Sysname": "Gynotron"
+    },
+    {
+      "x": 93,
+      "y": 61,
+      "Sysname": "Hadar"
+    },
+    {
+      "x": 53,
+      "y": 53,
+      "Sysname": "Hafiron"
+    },
+    {
+      "x": 33,
+      "y": 55,
+      "Sysname": "Hak"
+    },
+    {
+      "x": 11,
+      "y": 85,
+      "Sysname": "Hauvakuan"
+    },
+    {
+      "x": 44,
+      "y": 85,
+      "Sysname": "Haze"
+    },
+    {
+      "x": 10,
+      "y": 19,
+      "Sysname": "Hedetet"
+    },
+    {
+      "x": 56,
+      "y": 44,
+      "Sysname": "Heket"
+    },
+    {
+      "x": 7,
+      "y": 70,
+      "Sysname": "Hellraizer"
+    },
+    {
+      "x": 96,
+      "y": 33,
+      "Sysname": "Helus"
+    },
+    {
+      "x": 56,
+      "y": 98,
+      "Sysname": "Henth"
+    },
+    {
+      "x": 81,
+      "y": 94,
+      "Sysname": "Heqet"
+    },
+    {
+      "x": 52,
+      "y": 100,
+      "Sysname": "Hequavih"
+    },
+    {
+      "x": 63,
+      "y": 15,
+      "Sysname": "Hera"
+    },
+    {
+      "x": 9,
+      "y": 31,
+      "Sysname": "Hermes"
+    },
+    {
+      "x": 100,
+      "y": 22,
+      "Sysname": "Hermod"
+    },
+    {
+      "x": 99,
+      "y": 97,
+      "Sysname": "Hespera"
+    },
+    {
+      "x": 4,
+      "y": 74,
+      "Sysname": "Hesperus"
+    },
+    {
+      "x": 49,
+      "y": 87,
+      "Sysname": "Hetern"
+    },
+    {
+      "x": 82,
+      "y": 42,
+      "Sysname": "Heude"
+    },
+    {
+      "x": 59,
+      "y": 64,
+      "Sysname": "Heuseon"
+    },
+    {
+      "x": 52,
+      "y": 57,
+      "Sysname": "Heutolk"
+    },
+    {
+      "x": 18,
+      "y": 52,
+      "Sysname": "Hihp"
+    },
+    {
+      "x": 86,
+      "y": 7,
+      "Sysname": "Hith"
+    },
+    {
+      "x": 60,
+      "y": 40,
+      "Sysname": "Hohr"
+    },
+    {
+      "x": 33,
+      "y": 80,
+      "Sysname": "Hokoon"
+    },
+    {
+      "x": 29,
+      "y": 87,
+      "Sysname": "Holotron"
+    },
+    {
+      "x": 40,
+      "y": 19,
+      "Sysname": "Horon"
+    },
+    {
+      "x": 18,
+      "y": 78,
+      "Sysname": "Hosuhulg"
+    },
+    {
+      "x": 92,
+      "y": 26,
+      "Sysname": "Hreidmar"
+    },
+    {
+      "x": 10,
+      "y": 27,
+      "Sysname": "Hrist"
+    },
+    {
+      "x": 20,
+      "y": 29,
+      "Sysname": "Huib"
+    },
+    {
+      "x": 68,
+      "y": 27,
+      "Sysname": "Hunine"
+    },
+    {
+      "x": 62,
+      "y": 91,
+      "Sysname": "Huv"
+    },
+    {
+      "x": 40,
+      "y": 60,
+      "Sysname": "Huze"
+    },
+    {
+      "x": 17,
+      "y": 90,
+      "Sysname": "Hydrop"
+    },
+    {
+      "x": 99,
+      "y": 25,
+      "Sysname": "Hygaus"
+    },
+    {
+      "x": 13,
+      "y": 82,
+      "Sysname": "Hykl"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "Sysname": "Hykoalf"
+    },
+    {
+      "x": 5,
+      "y": 23,
+      "Sysname": "Hynitan"
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "Sysname": "Hynk"
+    },
+    {
+      "x": 21,
+      "y": 82,
+      "Sysname": "Hypnos"
+    },
+    {
+      "x": 87,
+      "y": 17,
+      "Sysname": "Hyson"
+    },
+    {
+      "x": 49,
+      "y": 39,
+      "Sysname": "Hyxonus"
+    },
+    {
+      "x": 20,
+      "y": 90,
+      "Sysname": "Icaon"
+    },
+    {
+      "x": 40,
+      "y": 6,
+      "Sysname": "Ikiwulb"
+    },
+    {
+      "x": 73,
+      "y": 2,
+      "Sysname": "Innana"
+    },
+    {
+      "x": 95,
+      "y": 78,
+      "Sysname": "Iphthime"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "Sysname": "Isis"
+    },
+    {
+      "x": 51,
+      "y": 51,
+      "Sysname": "Izunn"
+    },
+    {
+      "x": 59,
+      "y": 21,
+      "Sysname": "J\\u00f6rd"
+    },
+    {
+      "x": 31,
+      "y": 83,
+      "Sysname": "Jacone"
+    },
+    {
+      "x": 34,
+      "y": 85,
+      "Sysname": "Jason"
+    },
+    {
+      "x": 79,
+      "y": 59,
+      "Sysname": "Jater"
+    },
+    {
+      "x": 58,
+      "y": 44,
+      "Sysname": "Jatron"
+    },
+    {
+      "x": 75,
+      "y": 17,
+      "Sysname": "Javiter"
+    },
+    {
+      "x": 23,
+      "y": 76,
+      "Sysname": "Jerh"
+    },
+    {
+      "x": 53,
+      "y": 98,
+      "Sysname": "Jetron"
+    },
+    {
+      "x": 7,
+      "y": 82,
+      "Sysname": "Jeumojoar"
+    },
+    {
+      "x": 2,
+      "y": 27,
+      "Sysname": "Jeutun"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "Sysname": "Jeze"
+    },
+    {
+      "x": 40,
+      "y": 22,
+      "Sysname": "Jezet"
+    },
+    {
+      "x": 22,
+      "y": 43,
+      "Sysname": "Jiar"
+    },
+    {
+      "x": 9,
+      "y": 71,
+      "Sysname": "Jitaac"
+    },
+    {
+      "x": 13,
+      "y": 40,
+      "Sysname": "Jofaor"
+    },
+    {
+      "x": 66,
+      "y": 96,
+      "Sysname": "Johp"
+    },
+    {
+      "x": 34,
+      "y": 38,
+      "Sysname": "Jorp"
+    },
+    {
+      "x": 95,
+      "y": 51,
+      "Sysname": "Josecetern"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "Sysname": "Jude"
+    },
+    {
+      "x": 33,
+      "y": 9,
+      "Sysname": "Judutan"
+    },
+    {
+      "x": 3,
+      "y": 57,
+      "Sysname": "Jumomurus"
+    },
+    {
+      "x": 29,
+      "y": 74,
+      "Sysname": "Junj"
+    },
+    {
+      "x": 73,
+      "y": 97,
+      "Sysname": "Junkgowa"
+    },
+    {
+      "x": 46,
+      "y": 67,
+      "Sysname": "Juventus"
+    },
+    {
+      "x": 70,
+      "y": 50,
+      "Sysname": "Jycane"
+    },
+    {
+      "x": 46,
+      "y": 85,
+      "Sysname": "Kaalf"
+    },
+    {
+      "x": 96,
+      "y": 15,
+      "Sysname": "Kabta"
+    },
+    {
+      "x": 97,
+      "y": 63,
+      "Sysname": "Kafoze"
+    },
+    {
+      "x": 65,
+      "y": 42,
+      "Sysname": "Kagar"
+    },
+    {
+      "x": 43,
+      "y": 67,
+      "Sysname": "Kahunth"
+    },
+    {
+      "x": 69,
+      "y": 91,
+      "Sysname": "Kallianassa"
+    },
+    {
+      "x": 90,
+      "y": 58,
+      "Sysname": "Kaus Australis"
+    },
+    {
+      "x": 92,
+      "y": 7,
+      "Sysname": "Ketun"
+    },
+    {
+      "x": 26,
+      "y": 42,
+      "Sysname": "Khonsu"
+    },
+    {
+      "x": 90,
+      "y": 80,
+      "Sysname": "Kirn"
+    },
+    {
+      "x": 43,
+      "y": 3,
+      "Sysname": "Koalf"
+    },
+    {
+      "x": 45,
+      "y": 72,
+      "Sysname": "Kocitun"
+    },
+    {
+      "x": 36,
+      "y": 27,
+      "Sysname": "Komualf"
+    },
+    {
+      "x": 44,
+      "y": 51,
+      "Sysname": "Konuel"
+    },
+    {
+      "x": 88,
+      "y": 57,
+      "Sysname": "Kornjunfer"
+    },
+    {
+      "x": 47,
+      "y": 85,
+      "Sysname": "Koronoze"
+    },
+    {
+      "x": 5,
+      "y": 38,
+      "Sysname": "Kublaxealf"
+    },
+    {
+      "x": 80,
+      "y": 18,
+      "Sysname": "Kugoriter"
+    },
+    {
+      "x": 90,
+      "y": 78,
+      "Sysname": "Kujeweor"
+    },
+    {
+      "x": 31,
+      "y": 45,
+      "Sysname": "Kuor"
+    },
+    {
+      "x": 36,
+      "y": 29,
+      "Sysname": "Kuturn"
+    },
+    {
+      "x": 86,
+      "y": 79,
+      "Sysname": "Kyas"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "Sysname": "Kymaan"
+    },
+    {
+      "x": 23,
+      "y": 86,
+      "Sysname": "Lahar"
+    },
+    {
+      "x": 74,
+      "y": 25,
+      "Sysname": "Lalx"
+    },
+    {
+      "x": 46,
+      "y": 21,
+      "Sysname": "Lamt"
+    },
+    {
+      "x": 11,
+      "y": 51,
+      "Sysname": "Lasetern"
+    },
+    {
+      "x": 42,
+      "y": 77,
+      "Sysname": "Latona"
+    },
+    {
+      "x": 80,
+      "y": 54,
+      "Sysname": "Launw"
+    },
+    {
+      "x": 39,
+      "y": 68,
+      "Sysname": "Lauturn"
+    },
+    {
+      "x": 62,
+      "y": 81,
+      "Sysname": "Lehelsch"
+    },
+    {
+      "x": 82,
+      "y": 79,
+      "Sysname": "Lemonth"
+    },
+    {
+      "x": 6,
+      "y": 91,
+      "Sysname": "Lemurs"
+    },
+    {
+      "x": 1,
+      "y": 49,
+      "Sysname": "Leukaqu"
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "Sysname": "Leupoas"
+    },
+    {
+      "x": 94,
+      "y": 53,
+      "Sysname": "Lia"
+    },
+    {
+      "x": 55,
+      "y": 97,
+      "Sysname": "Lif"
+    },
+    {
+      "x": 81,
+      "y": 51,
+      "Sysname": "Lihb"
+    },
+    {
+      "x": 52,
+      "y": 75,
+      "Sysname": "Linitan"
+    },
+    {
+      "x": 80,
+      "y": 67,
+      "Sysname": "Lonus"
+    },
+    {
+      "x": 18,
+      "y": 74,
+      "Sysname": "Lualf"
+    },
+    {
+      "x": 63,
+      "y": 30,
+      "Sysname": "Lumf"
+    },
+    {
+      "x": 91,
+      "y": 35,
+      "Sysname": "Lux"
+    },
+    {
+      "x": 35,
+      "y": 50,
+      "Sysname": "Lycaor"
+    },
+    {
+      "x": 42,
+      "y": 88,
+      "Sysname": "Lyhn"
+    },
+    {
+      "x": 62,
+      "y": 67,
+      "Sysname": "Lylovehs"
+    },
+    {
+      "x": 61,
+      "y": 67,
+      "Sysname": "Lysianassa"
+    },
+    {
+      "x": 79,
+      "y": 89,
+      "Sysname": "Ma'at"
+    },
+    {
+      "x": 67,
+      "y": 95,
+      "Sysname": "Maasym"
+    },
+    {
+      "x": 3,
+      "y": 62,
+      "Sysname": "Madalait"
+    },
+    {
+      "x": 60,
+      "y": 97,
+      "Sysname": "Madder-Akka"
+    },
+    {
+      "x": 6,
+      "y": 89,
+      "Sysname": "Maera"
+    },
+    {
+      "x": 33,
+      "y": 64,
+      "Sysname": "Magni"
+    },
+    {
+      "x": 15,
+      "y": 20,
+      "Sysname": "Maia"
+    },
+    {
+      "x": 64,
+      "y": 9,
+      "Sysname": "Mani"
+    },
+    {
+      "x": 78,
+      "y": 80,
+      "Sysname": "Manticore"
+    },
+    {
+      "x": 83,
+      "y": 19,
+      "Sysname": "Marg"
+    },
+    {
+      "x": 50,
+      "y": 72,
+      "Sysname": "Mari"
+    },
+    {
+      "x": 79,
+      "y": 7,
+      "Sysname": "Matar"
+    },
+    {
+      "x": 62,
+      "y": 56,
+      "Sysname": "Megrez"
+    },
+    {
+      "x": 31,
+      "y": 13,
+      "Sysname": "Memphis"
+    },
+    {
+      "x": 2,
+      "y": 82,
+      "Sysname": "Menkib"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "Sysname": "Menoetius"
+    },
+    {
+      "x": 70,
+      "y": 68,
+      "Sysname": "Mesr"
+    },
+    {
+      "x": 28,
+      "y": 26,
+      "Sysname": "Metsarhatija"
+    },
+    {
+      "x": 100,
+      "y": 94,
+      "Sysname": "Miaplacidus"
+    },
+    {
+      "x": 9,
+      "y": 76,
+      "Sysname": "Midgard"
+    },
+    {
+      "x": 84,
+      "y": 26,
+      "Sysname": "Mill"
+    },
+    {
+      "x": 42,
+      "y": 4,
+      "Sysname": "Mirus"
+    },
+    {
+      "x": 15,
+      "y": 21,
+      "Sysname": "Mizzle"
+    },
+    {
+      "x": 54,
+      "y": 6,
+      "Sysname": "Moel"
+    },
+    {
+      "x": 74,
+      "y": 21,
+      "Sysname": "Monaak"
+    },
+    {
+      "x": 99,
+      "y": 68,
+      "Sysname": "Mone"
+    },
+    {
+      "x": 30,
+      "y": 64,
+      "Sysname": "Morupoib"
+    },
+    {
+      "x": 53,
+      "y": 41,
+      "Sysname": "Muharon"
+    },
+    {
+      "x": 50,
+      "y": 69,
+      "Sysname": "Mupit"
+    },
+    {
+      "x": 89,
+      "y": 58,
+      "Sysname": "Mut"
+    },
+    {
+      "x": 33,
+      "y": 73,
+      "Sysname": "Muwahid"
+    },
+    {
+      "x": 62,
+      "y": 37,
+      "Sysname": "Mydazet"
+    },
+    {
+      "x": 52,
+      "y": 55,
+      "Sysname": "Myib"
+    },
+    {
+      "x": 92,
+      "y": 91,
+      "Sysname": "Myron"
+    },
+    {
+      "x": 53,
+      "y": 73,
+      "Sysname": "Myxoblaor"
+    },
+    {
+      "x": 72,
+      "y": 66,
+      "Sysname": "Nac"
+    },
+    {
+      "x": 33,
+      "y": 26,
+      "Sysname": "Nai"
+    },
+    {
+      "x": 70,
+      "y": 99,
+      "Sysname": "Nanuac"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "Sysname": "Naos"
+    },
+    {
+      "x": 51,
+      "y": 72,
+      "Sysname": "Naroxm"
+    },
+    {
+      "x": 63,
+      "y": 27,
+      "Sysname": "Nede"
+    },
+    {
+      "x": 96,
+      "y": 76,
+      "Sysname": "Neib"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "Sysname": "Nek"
+    },
+    {
+      "x": 46,
+      "y": 72,
+      "Sysname": "Nenth"
+    },
+    {
+      "x": 16,
+      "y": 40,
+      "Sysname": "Nevuan"
+    },
+    {
+      "x": 84,
+      "y": 24,
+      "Sysname": "Nibbler"
+    },
+    {
+      "x": 53,
+      "y": 22,
+      "Sysname": "Niflheim"
+    },
+    {
+      "x": 92,
+      "y": 87,
+      "Sysname": "Nike"
+    },
+    {
+      "x": 32,
+      "y": 1,
+      "Sysname": "Nikuturn"
+    },
+    {
+      "x": 89,
+      "y": 52,
+      "Sysname": "Ninlil"
+    },
+    {
+      "x": 44,
+      "y": 23,
+      "Sysname": "Nintur"
+    },
+    {
+      "x": 62,
+      "y": 62,
+      "Sysname": "Nius"
+    },
+    {
+      "x": 29,
+      "y": 64,
+      "Sysname": "Nixl"
+    },
+    {
+      "x": 96,
+      "y": 11,
+      "Sysname": "Noac"
+    },
+    {
+      "x": 63,
+      "y": 18,
+      "Sysname": "Norecux"
+    },
+    {
+      "x": 41,
+      "y": 98,
+      "Sysname": "Nudes"
+    },
+    {
+      "x": 44,
+      "y": 67,
+      "Sysname": "Nugh"
+    },
+    {
+      "x": 57,
+      "y": 35,
+      "Sysname": "Nuhuib"
+    },
+    {
+      "x": 53,
+      "y": 35,
+      "Sysname": "Numd"
+    },
+    {
+      "x": 90,
+      "y": 96,
+      "Sysname": "Numn"
+    },
+    {
+      "x": 9,
+      "y": 63,
+      "Sysname": "Nunki"
+    },
+    {
+      "x": 62,
+      "y": 86,
+      "Sysname": "Nusakan"
+    },
+    {
+      "x": 79,
+      "y": 79,
+      "Sysname": "Nykater"
+    },
+    {
+      "x": 26,
+      "y": 72,
+      "Sysname": "Nyr"
+    },
+    {
+      "x": 72,
+      "y": 12,
+      "Sysname": "Oceanus"
+    },
+    {
+      "x": 97,
+      "y": 89,
+      "Sysname": "Ocypete"
+    },
+    {
+      "x": 4,
+      "y": 27,
+      "Sysname": "Odin"
+    },
+    {
+      "x": 15,
+      "y": 75,
+      "Sysname": "Omithyis"
+    },
+    {
+      "x": 65,
+      "y": 81,
+      "Sysname": "Oon"
+    },
+    {
+      "x": 44,
+      "y": 38,
+      "Sysname": "Otazape"
+    },
+    {
+      "x": 30,
+      "y": 75,
+      "Sysname": "Paat"
+    },
+    {
+      "x": 50,
+      "y": 81,
+      "Sysname": "Pabozet"
+    },
+    {
+      "x": 64,
+      "y": 56,
+      "Sysname": "Pacape"
+    },
+    {
+      "x": 77,
+      "y": 42,
+      "Sysname": "Pade"
+    },
+    {
+      "x": 87,
+      "y": 62,
+      "Sysname": "Pafoj"
+    },
+    {
+      "x": 99,
+      "y": 100,
+      "Sysname": "Pahoter"
+    },
+    {
+      "x": 78,
+      "y": 4,
+      "Sysname": "Pan"
+    },
+    {
+      "x": 35,
+      "y": 49,
+      "Sysname": "Papatun"
+    },
+    {
+      "x": 87,
+      "y": 71,
+      "Sysname": "Patron"
+    },
+    {
+      "x": 44,
+      "y": 74,
+      "Sysname": "Pauld"
+    },
+    {
+      "x": 81,
+      "y": 30,
+      "Sysname": "Paunus"
+    },
+    {
+      "x": 46,
+      "y": 91,
+      "Sysname": "Pear"
+    },
+    {
+      "x": 86,
+      "y": 84,
+      "Sysname": "Peas"
+    },
+    {
+      "x": 99,
+      "y": 10,
+      "Sysname": "Peg"
+    },
+    {
+      "x": 82,
+      "y": 34,
+      "Sysname": "Pegiel"
+    },
+    {
+      "x": 4,
+      "y": 59,
+      "Sysname": "Peguan"
+    },
+    {
+      "x": 60,
+      "y": 37,
+      "Sysname": "Penates"
+    },
+    {
+      "x": 39,
+      "y": 66,
+      "Sysname": "Peumd"
+    },
+    {
+      "x": 55,
+      "y": 79,
+      "Sysname": "Peuson"
+    },
+    {
+      "x": 24,
+      "y": 94,
+      "Sysname": "Peze"
+    },
+    {
+      "x": 61,
+      "y": 69,
+      "Sysname": "Phecda"
+    },
+    {
+      "x": 77,
+      "y": 72,
+      "Sysname": "Pherousa"
+    },
+    {
+      "x": 7,
+      "y": 88,
+      "Sysname": "Phyllodoce"
+    },
+    {
+      "x": 62,
+      "y": 9,
+      "Sysname": "Pix"
+    },
+    {
+      "x": 100,
+      "y": 33,
+      "Sysname": "Pleione"
+    },
+    {
+      "x": 30,
+      "y": 39,
+      "Sysname": "Pluto"
+    },
+    {
+      "x": 37,
+      "y": 39,
+      "Sysname": "Pmtho"
+    },
+    {
+      "x": 44,
+      "y": 35,
+      "Sysname": "Pojoquaak"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "Sysname": "Polair"
+    },
+    {
+      "x": 8,
+      "y": 86,
+      "Sysname": "Pononust"
+    },
+    {
+      "x": 90,
+      "y": 44,
+      "Sysname": "Pontomedusa"
+    },
+    {
+      "x": 71,
+      "y": 42,
+      "Sysname": "Popend"
+    },
+    {
+      "x": 100,
+      "y": 49,
+      "Sysname": "Protomedeja"
+    },
+    {
+      "x": 50,
+      "y": 57,
+      "Sysname": "Psamathe"
+    },
+    {
+      "x": 53,
+      "y": 16,
+      "Sysname": "Publaat"
+    },
+    {
+      "x": 44,
+      "y": 76,
+      "Sysname": "Puf"
+    },
+    {
+      "x": 95,
+      "y": 35,
+      "Sysname": "Puhb"
+    },
+    {
+      "x": 4,
+      "y": 62,
+      "Sysname": "Pumene"
+    },
+    {
+      "x": 62,
+      "y": 38,
+      "Sysname": "Putron"
+    },
+    {
+      "x": 57,
+      "y": 10,
+      "Sysname": "Puwaar"
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "Sysname": "Pyalf"
+    },
+    {
+      "x": 98,
+      "y": 87,
+      "Sysname": "Pybahr"
+    },
+    {
+      "x": 3,
+      "y": 23,
+      "Sysname": "Pym"
+    },
+    {
+      "x": 55,
+      "y": 49,
+      "Sysname": "Pyrt"
+    },
+    {
+      "x": 29,
+      "y": 12,
+      "Sysname": "Quamf"
+    },
+    {
+      "x": 6,
+      "y": 24,
+      "Sysname": "Quatoll"
+    },
+    {
+      "x": 31,
+      "y": 66,
+      "Sysname": "Quawr"
+    },
+    {
+      "x": 13,
+      "y": 65,
+      "Sysname": "Quaxeus"
+    },
+    {
+      "x": 22,
+      "y": 6,
+      "Sysname": "Qufaak"
+    },
+    {
+      "x": 82,
+      "y": 46,
+      "Sysname": "Qunx"
+    },
+    {
+      "x": 83,
+      "y": 9,
+      "Sysname": "Qupe"
+    },
+    {
+      "x": 61,
+      "y": 62,
+      "Sysname": "Qusude"
+    },
+    {
+      "x": 34,
+      "y": 91,
+      "Sysname": "Ragitun"
+    },
+    {
+      "x": 69,
+      "y": 24,
+      "Sysname": "Ragnarok"
+    },
+    {
+      "x": 39,
+      "y": 55,
+      "Sysname": "Randgr\\u00ed\\u00f0r"
+    },
+    {
+      "x": 94,
+      "y": 36,
+      "Sysname": "Rangi"
+    },
+    {
+      "x": 94,
+      "y": 54,
+      "Sysname": "Rathgrith"
+    },
+    {
+      "x": 74,
+      "y": 39,
+      "Sysname": "Raucaar"
+    },
+    {
+      "x": 16,
+      "y": 58,
+      "Sysname": "Raunus"
+    },
+    {
+      "x": 54,
+      "y": 51,
+      "Sysname": "Rauor"
+    },
+    {
+      "x": 65,
+      "y": 61,
+      "Sysname": "Raxm"
+    },
+    {
+      "x": 43,
+      "y": 11,
+      "Sysname": "Reas"
+    },
+    {
+      "x": 51,
+      "y": 87,
+      "Sysname": "Render"
+    },
+    {
+      "x": 63,
+      "y": 32,
+      "Sysname": "Resheph"
+    },
+    {
+      "x": 51,
+      "y": 94,
+      "Sysname": "Retron"
+    },
+    {
+      "x": 71,
+      "y": 69,
+      "Sysname": "Reup"
+    },
+    {
+      "x": 27,
+      "y": 79,
+      "Sysname": "Riar"
+    },
+    {
+      "x": 90,
+      "y": 18,
+      "Sysname": "Ricstan"
+    },
+    {
+      "x": 90,
+      "y": 94,
+      "Sysname": "Riroar"
+    },
+    {
+      "x": 72,
+      "y": 54,
+      "Sysname": "Ro"
+    },
+    {
+      "x": 28,
+      "y": 48,
+      "Sysname": "Roxenanth"
+    },
+    {
+      "x": 54,
+      "y": 85,
+      "Sysname": "Ruhsch"
+    },
+    {
+      "x": 28,
+      "y": 56,
+      "Sysname": "Runutun"
+    },
+    {
+      "x": 7,
+      "y": 87,
+      "Sysname": "Rurison"
+    },
+    {
+      "x": 97,
+      "y": 19,
+      "Sysname": "Rurun"
+    },
+    {
+      "x": 55,
+      "y": 94,
+      "Sysname": "Ruson"
+    },
+    {
+      "x": 93,
+      "y": 65,
+      "Sysname": "Ryan"
+    },
+    {
+      "x": 86,
+      "y": 66,
+      "Sysname": "Ryfosd"
+    },
+    {
+      "x": 62,
+      "y": 22,
+      "Sysname": "Ryquaat"
+    },
+    {
+      "x": 67,
+      "y": 61,
+      "Sysname": "Sarh"
+    },
+    {
+      "x": 54,
+      "y": 20,
+      "Sysname": "Sarin"
+    },
+    {
+      "x": 45,
+      "y": 38,
+      "Sysname": "Saturn"
+    },
+    {
+      "x": 39,
+      "y": 70,
+      "Sysname": "Sauib"
+    },
+    {
+      "x": 48,
+      "y": 5,
+      "Sysname": "Sauvoat"
+    },
+    {
+      "x": 76,
+      "y": 63,
+      "Sysname": "Savel"
+    },
+    {
+      "x": 53,
+      "y": 26,
+      "Sysname": "Scheat"
+    },
+    {
+      "x": 86,
+      "y": 99,
+      "Sysname": "Sebek"
+    },
+    {
+      "x": 85,
+      "y": 38,
+      "Sysname": "Seker"
+    },
+    {
+      "x": 81,
+      "y": 70,
+      "Sysname": "Sesanth"
+    },
+    {
+      "x": 54,
+      "y": 9,
+      "Sysname": "Setron"
+    },
+    {
+      "x": 65,
+      "y": 7,
+      "Sysname": "Seuat"
+    },
+    {
+      "x": 75,
+      "y": 32,
+      "Sysname": "Seuib"
+    },
+    {
+      "x": 87,
+      "y": 10,
+      "Sysname": "Seunus"
+    },
+    {
+      "x": 80,
+      "y": 65,
+      "Sysname": "Sezokatan"
+    },
+    {
+      "x": 40,
+      "y": 23,
+      "Sysname": "Shaz"
+    },
+    {
+      "x": 11,
+      "y": 16,
+      "Sysname": "Silx"
+    },
+    {
+      "x": 14,
+      "y": 19,
+      "Sysname": "Sit"
+    },
+    {
+      "x": 78,
+      "y": 7,
+      "Sysname": "Sixeyedtrouts"
+    },
+    {
+      "x": 42,
+      "y": 54,
+      "Sysname": "Sk\\u00f6gul"
+    },
+    {
+      "x": 84,
+      "y": 27,
+      "Sysname": "Skyroshroud"
+    },
+    {
+      "x": 6,
+      "y": 72,
+      "Sysname": "Smaug"
+    },
+    {
+      "x": 45,
+      "y": 28,
+      "Sysname": "Sokulus"
+    },
+    {
+      "x": 45,
+      "y": 49,
+      "Sysname": "Soson"
+    },
+    {
+      "x": 59,
+      "y": 67,
+      "Sysname": "Stern-Gerlach"
+    },
+    {
+      "x": 66,
+      "y": 50,
+      "Sysname": "Steve Irwin"
+    },
+    {
+      "x": 59,
+      "y": 73,
+      "Sysname": "Sualocin"
+    },
+    {
+      "x": 15,
+      "y": 59,
+      "Sysname": "Svafa"
+    },
+    {
+      "x": 96,
+      "y": 63,
+      "Sysname": "Syar"
+    },
+    {
+      "x": 99,
+      "y": 81,
+      "Sysname": "Sydulus"
+    },
+    {
+      "x": 44,
+      "y": 56,
+      "Sysname": "Syjuas"
+    },
+    {
+      "x": 31,
+      "y": 15,
+      "Sysname": "Syne"
+    },
+    {
+      "x": 44,
+      "y": 28,
+      "Sysname": "Sysater"
+    },
+    {
+      "x": 51,
+      "y": 62,
+      "Sysname": "Sytron"
+    },
+    {
+      "x": 75,
+      "y": 34,
+      "Sysname": "Syvoalf"
+    },
+    {
+      "x": 69,
+      "y": 27,
+      "Sysname": "Taak"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "Sysname": "Talic"
+    },
+    {
+      "x": 100,
+      "y": 14,
+      "Sysname": "Talitha Australis"
+    },
+    {
+      "x": 59,
+      "y": 14,
+      "Sysname": "Tanit"
+    },
+    {
+      "x": 70,
+      "y": 55,
+      "Sysname": "Tankie"
+    },
+    {
+      "x": 71,
+      "y": 25,
+      "Sysname": "Tanu"
+    },
+    {
+      "x": 45,
+      "y": 27,
+      "Sysname": "Tape"
+    },
+    {
+      "x": 34,
+      "y": 77,
+      "Sysname": "Taucear"
+    },
+    {
+      "x": 74,
+      "y": 26,
+      "Sysname": "Tauib"
+    },
+    {
+      "x": 8,
+      "y": 93,
+      "Sysname": "Tauniturn"
+    },
+    {
+      "x": 64,
+      "y": 36,
+      "Sysname": "Tazet"
+    },
+    {
+      "x": 83,
+      "y": 16,
+      "Sysname": "Tehutern"
+    },
+    {
+      "x": 34,
+      "y": 14,
+      "Sysname": "Telipinu"
+    },
+    {
+      "x": 30,
+      "y": 14,
+      "Sysname": "Tell"
+    },
+    {
+      "x": 65,
+      "y": 48,
+      "Sysname": "Tenus"
+    },
+    {
+      "x": 90,
+      "y": 7,
+      "Sysname": "Tept"
+    },
+    {
+      "x": 21,
+      "y": 58,
+      "Sysname": "Teublalaor"
+    },
+    {
+      "x": 21,
+      "y": 20,
+      "Sysname": "Teugison"
+    },
+    {
+      "x": 23,
+      "y": 38,
+      "Sysname": "Teuhm"
+    },
+    {
+      "x": 89,
+      "y": 69,
+      "Sysname": "Teuns"
+    },
+    {
+      "x": 25,
+      "y": 18,
+      "Sysname": "Tew"
+    },
+    {
+      "x": 13,
+      "y": 41,
+      "Sysname": "Thetis"
+    },
+    {
+      "x": 31,
+      "y": 85,
+      "Sysname": "Thoe\\u00eb"
+    },
+    {
+      "x": 36,
+      "y": 51,
+      "Sysname": "Thokk"
+    },
+    {
+      "x": 10,
+      "y": 43,
+      "Sysname": "Thoth"
+    },
+    {
+      "x": 100,
+      "y": 95,
+      "Sysname": "Tialf"
+    },
+    {
+      "x": 18,
+      "y": 60,
+      "Sysname": "Tisiphone"
+    },
+    {
+      "x": 77,
+      "y": 14,
+      "Sysname": "Titanis"
+    },
+    {
+      "x": 6,
+      "y": 69,
+      "Sysname": "To"
+    },
+    {
+      "x": 97,
+      "y": 57,
+      "Sysname": "Topades"
+    },
+    {
+      "x": 54,
+      "y": 14,
+      "Sysname": "toXinLT"
+    },
+    {
+      "x": 4,
+      "y": 42,
+      "Sysname": "Tsurra"
+    },
+    {
+      "x": 46,
+      "y": 26,
+      "Sysname": "Tu"
+    },
+    {
+      "x": 42,
+      "y": 26,
+      "Sysname": "Tupe"
+    },
+    {
+      "x": 57,
+      "y": 83,
+      "Sysname": "Tuter"
+    },
+    {
+      "x": 52,
+      "y": 86,
+      "Sysname": "Tuus"
+    },
+    {
+      "x": 3,
+      "y": 67,
+      "Sysname": "Tuwr"
+    },
+    {
+      "x": 75,
+      "y": 14,
+      "Sysname": "Tux"
+    },
+    {
+      "x": 42,
+      "y": 37,
+      "Sysname": "Tyac"
+    },
+    {
+      "x": 92,
+      "y": 8,
+      "Sysname": "Tyl"
+    },
+    {
+      "x": 88,
+      "y": 31,
+      "Sysname": "Tylus"
+    },
+    {
+      "x": 57,
+      "y": 71,
+      "Sysname": "Uadjet"
+    },
+    {
+      "x": 38,
+      "y": 31,
+      "Sysname": "Ubublaan"
+    },
+    {
+      "x": 89,
+      "y": 2,
+      "Sysname": "Umbringer"
+    },
+    {
+      "x": 8,
+      "y": 45,
+      "Sysname": "Unimob"
+    },
+    {
+      "x": 43,
+      "y": 17,
+      "Sysname": "Unus"
+    },
+    {
+      "x": 39,
+      "y": 30,
+      "Sysname": "Urania"
+    },
+    {
+      "x": 61,
+      "y": 5,
+      "Sysname": "Urawiib"
+    },
+    {
+      "x": 3,
+      "y": 80,
+      "Sysname": "Vabinus"
+    },
+    {
+      "x": 8,
+      "y": 30,
+      "Sysname": "Vablater"
+    },
+    {
+      "x": 57,
+      "y": 81,
+      "Sysname": "Vakutern"
+    },
+    {
+      "x": 84,
+      "y": 69,
+      "Sysname": "Vanaheim"
+    },
+    {
+      "x": 95,
+      "y": 67,
+      "Sysname": "Vanikan"
+    },
+    {
+      "x": 62,
+      "y": 95,
+      "Sysname": "Vanth"
+    },
+    {
+      "x": 67,
+      "y": 98,
+      "Sysname": "Venh"
+    },
+    {
+      "x": 92,
+      "y": 28,
+      "Sysname": "Victoria"
+    },
+    {
+      "x": 80,
+      "y": 56,
+      "Sysname": "Vifaus"
+    },
+    {
+      "x": 100,
+      "y": 81,
+      "Sysname": "Viheor"
+    },
+    {
+      "x": 63,
+      "y": 82,
+      "Sysname": "Visolw"
+    },
+    {
+      "x": 2,
+      "y": 55,
+      "Sysname": "Vobimaan"
+    },
+    {
+      "x": 4,
+      "y": 35,
+      "Sysname": "Vudorb"
+    },
+    {
+      "x": 51,
+      "y": 18,
+      "Sysname": "Vulus"
+    },
+    {
+      "x": 93,
+      "y": 75,
+      "Sysname": "Vuron"
+    },
+    {
+      "x": 45,
+      "y": 23,
+      "Sysname": "Vyf"
+    },
+    {
+      "x": 46,
+      "y": 29,
+      "Sysname": "Wajatun"
+    },
+    {
+      "x": 68,
+      "y": 16,
+      "Sysname": "Wanegeturn"
+    },
+    {
+      "x": 36,
+      "y": 93,
+      "Sysname": "Warsong"
+    },
+    {
+      "x": 72,
+      "y": 11,
+      "Sysname": "Wasat"
+    },
+    {
+      "x": 55,
+      "y": 68,
+      "Sysname": "Wati Kutjarra"
+    },
+    {
+      "x": 87,
+      "y": 46,
+      "Sysname": "Wendy"
+    },
+    {
+      "x": 91,
+      "y": 46,
+      "Sysname": "Wetern"
+    },
+    {
+      "x": 98,
+      "y": 61,
+      "Sysname": "Wetutern"
+    },
+    {
+      "x": 97,
+      "y": 78,
+      "Sysname": "Wez"
+    },
+    {
+      "x": 72,
+      "y": 91,
+      "Sysname": "Wezs"
+    },
+    {
+      "x": 49,
+      "y": 32,
+      "Sysname": "Wobaan"
+    },
+    {
+      "x": 79,
+      "y": 52,
+      "Sysname": "Wobuib"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "Sysname": "Wojine"
+    },
+    {
+      "x": 70,
+      "y": 72,
+      "Sysname": "Wornstrum"
+    },
+    {
+      "x": 97,
+      "y": 27,
+      "Sysname": "Wufunirus"
+    },
+    {
+      "x": 40,
+      "y": 44,
+      "Sysname": "Wupelimn"
+    },
+    {
+      "x": 19,
+      "y": 31,
+      "Sysname": "Wytron"
+    },
+    {
+      "x": 15,
+      "y": 95,
+      "Sysname": "Xabezet"
+    },
+    {
+      "x": 28,
+      "y": 100,
+      "Sysname": "Xahupiel"
+    },
+    {
+      "x": 100,
+      "y": 86,
+      "Sysname": "Xeib"
+    },
+    {
+      "x": 91,
+      "y": 84,
+      "Sysname": "Xetael"
+    },
+    {
+      "x": 12,
+      "y": 85,
+      "Sysname": "Xicull"
+    },
+    {
+      "x": 93,
+      "y": 72,
+      "Sysname": "Xij"
+    },
+    {
+      "x": 92,
+      "y": 37,
+      "Sysname": "Xitron"
+    },
+    {
+      "x": 93,
+      "y": 11,
+      "Sysname": "Xixize"
+    },
+    {
+      "x": 25,
+      "y": 60,
+      "Sysname": "Xizoib"
+    },
+    {
+      "x": 33,
+      "y": 97,
+      "Sysname": "Xobelus"
+    },
+    {
+      "x": 28,
+      "y": 34,
+      "Sysname": "Xohsch"
+    },
+    {
+      "x": 73,
+      "y": 86,
+      "Sysname": "Xots"
+    },
+    {
+      "x": 78,
+      "y": 1,
+      "Sysname": "Xuhanus"
+    },
+    {
+      "x": 26,
+      "y": 71,
+      "Sysname": "Xuwh"
+    },
+    {
+      "x": 59,
+      "y": 38,
+      "Sysname": "Xyhunus"
+    },
+    {
+      "x": 40,
+      "y": 1,
+      "Sysname": "Xylaar"
+    },
+    {
+      "x": 80,
+      "y": 33,
+      "Sysname": "Xyrus"
+    },
+    {
+      "x": 38,
+      "y": 85,
+      "Sysname": "Xyson"
+    },
+    {
+      "x": 12,
+      "y": 21,
+      "Sysname": "Yabme-Akka"
+    },
+    {
+      "x": 16,
+      "y": 27,
+      "Sysname": "Ymir"
+    },
+    {
+      "x": 7,
+      "y": 78,
+      "Sysname": "Zaba"
+    },
+    {
+      "x": 94,
+      "y": 52,
+      "Sysname": "Zaditun"
+    },
+    {
+      "x": 27,
+      "y": 82,
+      "Sysname": "Zane"
+    },
+    {
+      "x": 84,
+      "y": 8,
+      "Sysname": "Zapubepl"
+    },
+    {
+      "x": 27,
+      "y": 80,
+      "Sysname": "Zaukatan"
+    },
+    {
+      "x": 60,
+      "y": 90,
+      "Sysname": "Zaulb"
+    },
+    {
+      "x": 42,
+      "y": 9,
+      "Sysname": "Zaurn"
+    },
+    {
+      "x": 86,
+      "y": 35,
+      "Sysname": "Zavijava"
+    },
+    {
+      "x": 68,
+      "y": 63,
+      "Sysname": "Zazavavindrano"
+    },
+    {
+      "x": 88,
+      "y": 25,
+      "Sysname": "Zeblarus"
+    },
+    {
+      "x": 52,
+      "y": 2,
+      "Sysname": "Zemd"
+    },
+    {
+      "x": 60,
+      "y": 25,
+      "Sysname": "Zenuat"
+    },
+    {
+      "x": 37,
+      "y": 41,
+      "Sysname": "Zerc"
+    },
+    {
+      "x": 50,
+      "y": 36,
+      "Sysname": "Zeudes"
+    },
+    {
+      "x": 49,
+      "y": 59,
+      "Sysname": "Zeupone"
+    },
+    {
+      "x": 43,
+      "y": 96,
+      "Sysname": "Zeuturn"
+    },
+    {
+      "x": 97,
+      "y": 65,
+      "Sysname": "Zeuven"
+    },
+    {
+      "x": 12,
+      "y": 75,
+      "Sysname": "Zevaib"
+    },
+    {
+      "x": 12,
+      "y": 61,
+      "Sysname": "Zibi"
+    },
+    {
+      "x": 20,
+      "y": 82,
+      "Sysname": "Zibone"
+    },
+    {
+      "x": 53,
+      "y": 20,
+      "Sysname": "Zifoar"
+    },
+    {
+      "x": 6,
+      "y": 88,
+      "Sysname": "Zizet"
+    },
+    {
+      "x": 63,
+      "y": 51,
+      "Sysname": "Zolus"
+    },
+    {
+      "x": 23,
+      "y": 11,
+      "Sysname": "Zopotiron"
+    },
+    {
+      "x": 66,
+      "y": 85,
+      "Sysname": "Zotron"
+    },
+    {
+      "x": 75,
+      "y": 37,
+      "Sysname": "Zubeneshamali"
+    },
+    {
+      "x": 42,
+      "y": 92,
+      "Sysname": "Zuhevipt"
+    },
+    {
+      "x": 59,
+      "y": 68,
+      "Sysname": "Zuniw"
+    },
+    {
+      "x": 35,
+      "y": 27,
+      "Sysname": "Zuson"
+    },
+    {
+      "x": 39,
+      "y": 48,
+      "Sysname": "Zyjimn"
+    },
+    {
+      "x": 63,
+      "y": 79,
+      "Sysname": "Zyron"
+    },
+    {
+      "x": 26,
+      "y": 90,
+      "Sysname": "Zytacuas"
+    }
+  ]
+}
