@@ -19,7 +19,7 @@ public class PopulatePlanets : MonoBehaviour {
    {
         Systems s = JsonUtility.FromJson<Systems>(jsonPlanets.text);
 
-       
+       //create hex layout
         for (int y = 1; y <= width; y++)
         {
             float oddRowMod = xOffSet / 2;
@@ -32,6 +32,7 @@ public class PopulatePlanets : MonoBehaviour {
  
                 GameObject GOsectorHex = (GameObject)Instantiate(planetPreFab, new Vector3(x * xOffSet+oddRowMod, y * yOffSet, 0), Quaternion.identity);
                 hexScript sectorHex = GOsectorHex.GetComponent<hexScript>();
+                sectorHex.setText(x.ToString() + "," + y.ToString());
                 sectorHex.gameObject.name = x + "," + y;
                 sectorHex.x = x;
                 sectorHex.y = y;
@@ -40,11 +41,12 @@ public class PopulatePlanets : MonoBehaviour {
             }
         }
 
+        //find system hexes and show systems
         foreach (SystemDetails si in s.systemDetails)
         {
             try {
                 hexScript sdFound = universe.Where(a => a.x == si.x && a.y == si.y).First();
-                sdFound=new hexScript(si);
+                sdFound.setHexScript(si);
                 sdFound.GetComponent<MeshRenderer>().material = usedSystem;
                 sdFound.transform.Find("systemEffect").gameObject.SetActive(true);
                 print("good:"+si.x + "," + si.y);

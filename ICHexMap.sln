@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICHexMap.CSharp.Plugins", "ICHexMap.CSharp.Plugins.csproj", "{3C6BCA84-0541-5016-4CD2-BAAD098DC5E9}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICHexMap.CSharp", "ICHexMap.CSharp.csproj", "{796382B4-D7CE-27B4-AC6D-EDB3CFBCDDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICHexMap.CSharp.Editor", "ICHexMap.CSharp.Editor.csproj", "{3C6F6F77-F98F-728C-8CC5-F6701AEE3FF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6BCA84-0541-5016-4CD2-BAAD098DC5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6BCA84-0541-5016-4CD2-BAAD098DC5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6BCA84-0541-5016-4CD2-BAAD098DC5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6BCA84-0541-5016-4CD2-BAAD098DC5E9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{796382B4-D7CE-27B4-AC6D-EDB3CFBCDDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{796382B4-D7CE-27B4-AC6D-EDB3CFBCDDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{796382B4-D7CE-27B4-AC6D-EDB3CFBCDDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{796382B4-D7CE-27B4-AC6D-EDB3CFBCDDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6F6F77-F98F-728C-8CC5-F6701AEE3FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6F6F77-F98F-728C-8CC5-F6701AEE3FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6F6F77-F98F-728C-8CC5-F6701AEE3FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6F6F77-F98F-728C-8CC5-F6701AEE3FF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
