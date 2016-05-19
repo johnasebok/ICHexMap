@@ -2,7 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System;
+
+
 
 public class PopulatePlanets : MonoBehaviour {
    public TextAsset jsonPlanets;
@@ -47,14 +48,12 @@ public class PopulatePlanets : MonoBehaviour {
                 hexScript sdFound = universe.Where(a => a.x == si.x && a.y == si.y).First();
                 sdFound.setHexScript(si);
                 sdFound.GetComponent<MeshRenderer>().material = usedSystem;
-                sdFound.baseMateral = usedSystem;
                 sdFound.transform.Find("systemEffect").gameObject.SetActive(true);
-                sdFound.setRotation();
-               // print("good:"+si.x + "," + si.y);
+                print("good:"+si.x + "," + si.y);
             }
-            catch (Exception exc)
+            catch 
             {
-                print(si.x + "," + si.y+":"+exc.Message);
+                print(si.x + "," + si.y);
             }
         }
 
